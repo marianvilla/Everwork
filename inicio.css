@@ -7130,8 +7130,8 @@ a:hover{
 }
 .btn-primary {
     color: #ffffff;
-  background-color:#ED2F59 !important;
-  border-color: #ED2F59 !important;
+  background-color:#ff004f !important;
+  border-color: #ff004f !important;
 }
 .cover h1{
 
@@ -7193,7 +7193,7 @@ a:hover{
     margin-right: 0px;
 }
 .menu-fontsize{
-  font-size: 14px;
+  font-size: 15px;
   color:#fff;
   margin-top: 0px;
 
@@ -8276,10 +8276,10 @@ a:hover.back-to-top {
 }
 
 .sfooter{
-  background-color: #ED2F59;
+  background-color: #ff004f;
   padding: 30px 0px 45px;
-      padding-top: 30px;
-    padding-bottom: 22px;
+  padding-top: 30px;
+  padding-bottom: 22px;
 }
 
 .sfooter .font-mbtx{
@@ -8489,7 +8489,7 @@ display: none;
 }
 
 .font-f{
-  font-family: 'Muli', sans-serif;
+font-family: 'Droid Sans', sans-serif;
 }
 
 
