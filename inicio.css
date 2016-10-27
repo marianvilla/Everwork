@@ -4731,11 +4731,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color: #3b1717;
+  border-color: #3b1717;
+      position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
 }
 .navbar-default .navbar-brand {
-  color: #000000;
+  color: #fff;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -7130,8 +7134,8 @@ a:hover{
 }
 .btn-primary {
     color: #ffffff;
-  background-color:#ff004f !important;
-  border-color: #ff004f !important;
+  background-color:#fa6464!important;
+  border-color: #fa6464 !important;
 }
 .cover h1{
 
@@ -7139,7 +7143,8 @@ a:hover{
 
 
 .top-nav-collapse{
-  background-color: #F99232 !important;
+  background-color: #3b1717 !important;
+  margin-top: 0px !important;
 }
 
 .navbar-fixed-top{
@@ -7153,8 +7158,8 @@ a:hover{
 
 }
 .btn-primary:hover{
-      background-color: rgb(237, 47, 137)!important;
-    border-color: rgb(237, 47, 137) !important;
+      background-color:#ff004f!important;
+    border-color:#ff004f !important;
 }
 
 .logo-pioneras {
@@ -8276,7 +8281,7 @@ a:hover.back-to-top {
 }
 
 .sfooter{
-  background-color: #ff004f;
+  background-color: #3b1717;
   padding: 30px 0px 45px;
   padding-top: 30px;
   padding-bottom: 22px;
@@ -8489,7 +8494,7 @@ display: none;
 }
 
 .font-f{
-font-family: 'Droid Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
 }
 
 
