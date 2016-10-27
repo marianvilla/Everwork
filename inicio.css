@@ -2878,8 +2878,9 @@ output {
 }
 .form-control {
   display: block;
-  width: 334px;
+  width: 506px;
   height: 34px;
+  margin-left: -88px;
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857143;
@@ -3069,7 +3070,7 @@ select[multiple].form-group-sm .form-control {
   min-height: 32px;
 }
 .input-lg {
-  height: 46px;
+  height: 43px;
   padding: 10px 16px;
   font-size: 18px;
   line-height: 1.3333333;
